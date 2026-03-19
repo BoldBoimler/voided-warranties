@@ -20,7 +20,7 @@ Sometimes you just need to look at something's guts to understand it better.  Al
 - [2007 Hummer H3 BCM](<devices/2007 Hummer H3 BCM/README.md>)
 - [AeroGarden Bounty Elite](<devices/Aerogarden Bounty Elite/README.md>)
 - [BedJet v3 Remote](<devices/BedJet v3 Remote/README.md>)
-- [LG 49" TV 49UF6490UB](<devices/LG 49uf6490ub/README.md>)
+- [LG 49" TV 49UF6490UB](<devices/LG 49UF6490UB/README.md>)
 
 
 Likely more to come.
